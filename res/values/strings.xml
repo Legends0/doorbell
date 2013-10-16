@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DoorbellExperiment</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="pick_contact">PickContact</string>
+    <string name="ring">Ring:</string>
+    <string name="ding_dong">Ding Dong!</string>
+    <string name="no_one">No one yet!</string>
+
+</resources>
